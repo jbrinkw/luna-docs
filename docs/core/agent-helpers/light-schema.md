@@ -1,0 +1,3 @@
+# Light schema
+
+TBD.
